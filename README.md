@@ -1,4 +1,2 @@
-# php-tarih-zaman
+# php-applications
 php date time applications
-<br>
-php tarih zaman uygulaması
